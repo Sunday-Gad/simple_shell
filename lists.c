@@ -1,6 +1,11 @@
 #include "shell.h"
 
-
+/**
+ * list_len - determines length of linked list
+ * @h: pointer to first node
+ *
+ * Return: size of list
+ */
 list_t *add_node(list_t **head, const char *str, int num)
 {
 	list_t *new_head;
