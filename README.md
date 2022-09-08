@@ -4,7 +4,7 @@
 
 ### Project details
 -----
-Welcome to the `Mandalorian Simple Shell` project!! This program is a simple shell that can be compiled and launched from the command line.
+Welcome to the `Simple Shell` project!! This program is a simple shell that can be compiled and launched from the command line.
 
 ### How to Compile
 ---------------
